@@ -1,6 +1,3 @@
-def main():
-    print("my first programm")
-    print()
+import sys
 
-if __name__ == '__main__':
-    main()
+print(int(sys.argv[1]) + int(sys.argv[2]))
