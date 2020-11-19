@@ -1,3 +1,0 @@
-#Sortic
-
-#hjk
